@@ -1,0 +1,49 @@
+#include "Mesh.h"
+
+void CubeMesh::CreateMesh()
+{
+	if (!pVertices && !pIndices)
+	{
+		pVertices = new Vertex[sizeof(Vertex) * 8];
+		
+		//Init vertices
+		Vertex vertices[] =
+		{
+			{-1.f,  1.f, 0.f },
+			{ 1.f,  1.f, 0.f },
+			{ 1.f,  1.f, 0.f },
+			{-1.f,  1.f, 0.f },
+			{-1.f, -1.f, 0.f },
+			{ 1.f, -1.f, 0.f },
+			{ 1.f, -1.f, 0.f },
+		};
+
+		//storing the vertex data into pVertices
+		VertexCount = sizeof(vertices) / sizeof(Vertex);
+		for (int i = 0; i < VertexCount; i++)
+			pVertices[i] = vertices[i];
+
+		pIndices = new short[sizeof(short) * 36];
+
+		//Init indices
+		short indices[] =
+		{
+			3,1,0,2,1,3,
+			0,5,4,1,5,0,
+			3,4,7,0,4,3,
+			1,6,5,2,6,1,
+			2,7,6,3,7,2,
+			6,4,5,7,4,6,
+		};
+
+		//storing the index data into pIndices
+		IndexCount = sizeof(indices) / sizeof(short);
+		for (int i = 0; i < IndexCount; i++)
+			pIndices[i] = indices[i];
+	}
+}
+
+CubeMesh::~CubeMesh()
+{
+
+}

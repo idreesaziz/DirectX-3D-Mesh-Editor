@@ -1,0 +1,157 @@
+﻿  pch.cpp
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54723): note: see previous definition of 'DXGI_STATUS_OCCLUDED'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54732): note: see previous definition of 'DXGI_STATUS_CLIPPED'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54741): note: see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54750): note: see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54759): note: see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54768): note: see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54777): note: see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54792): note: see previous definition of 'DXGI_ERROR_INVALID_CALL'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54801): note: see previous definition of 'DXGI_ERROR_NOT_FOUND'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54810): note: see previous definition of 'DXGI_ERROR_MORE_DATA'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54819): note: see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54828): note: see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54837): note: see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54847): note: see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54856): note: see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54866): note: see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54875): note: see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54885): note: see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54894): note: see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54903): note: see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54913): note: see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54922): note: see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\d3d11.h(917): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55186): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\d3d11.h(918): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55195): note: see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\d3d11.h(919): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55205): note: see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\d3d11.h(920): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55214): note: see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55162): note: see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+d:\github\directx-basic-3dinteraction-environment\enginedx\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55171): note: see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+  imgui.cpp
+  ImGuizmo.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+d:\github\directx-basic-3dinteraction-environment\enginedx\imgui\imgui_draw.cpp(26): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  d:\github\directx-basic-3dinteraction-environment\enginedx\imgui\imgui_draw.cpp(26): note: Add macro to precompiled header instead of defining here
+  d:\github\directx-basic-3dinteraction-environment\enginedx\imgui\imgui_draw.cpp(30): note: use of precompiled header
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  cApp.cpp
+  CCamera.cpp
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\ccamera.cpp(44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\ccamera.cpp(77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\ccamera.cpp(77): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\ccamera.cpp(78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\ccamera.cpp(78): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\ccamera.cpp(94): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\ccamera.cpp(95): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\ccamera.cpp(102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\ccamera.cpp(101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\ccamera.cpp(100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CDirectionalLight.cpp
+  CGUI.cpp
+  CHemisphericLight.cpp
+  CLight.cpp
+  CubeMesh.cpp
+  cWindow.cpp
+  Grid.cpp
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\grid.cpp(10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\grid.cpp(11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\grid.cpp(27): warning C4018: '<': signed/unsigned mismatch
+  GUIRender.cpp
+  DrawGui.cpp
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\drawgui.cpp(23): warning C4018: '<': signed/unsigned mismatch
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\drawgui.cpp(185): warning C4018: '<': signed/unsigned mismatch
+  Mesh.cpp
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\mesh.cpp(16): warning C4018: '<': signed/unsigned mismatch
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\mesh.cpp(92): warning C4018: '<': signed/unsigned mismatch
+  ModelLoader.cpp
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\modelloader.cpp(57): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\modelloader.cpp(58): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  Projector.cpp
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\projector.cpp(16): warning C4018: '<': signed/unsigned mismatch
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\projector.cpp(18): warning C4018: '<': signed/unsigned mismatch
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\projector.cpp(43): warning C4018: '<': signed/unsigned mismatch
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\projector.cpp(45): warning C4018: '<': signed/unsigned mismatch
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\projector.cpp(88): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Renderer.cpp
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\renderer.cpp(80): warning C4244: '=': conversion from 'unsigned int' to 'FLOAT', possible loss of data
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\renderer.cpp(81): warning C4244: '=': conversion from 'unsigned int' to 'FLOAT', possible loss of data
+  Shader.cpp
+  SkyBox.cpp
+  SkyShader.cpp
+  SolidShader.cpp
+  VertexOverlayShader.cpp
+  Window.cpp
+  WinMain.cpp
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\winmain.cpp(67): warning C4018: '<': signed/unsigned mismatch
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\winmain.cpp(194): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\winmain.cpp(185): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\winmain.cpp(184): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\winmain.cpp(223): warning C4018: '<': signed/unsigned mismatch
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\winmain.cpp(266): warning C4018: '<': signed/unsigned mismatch
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\winmain.cpp(336): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\winmain.cpp(337): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\winmain.cpp(406): warning C4018: '<': signed/unsigned mismatch
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\winmain.cpp(416): warning C4018: '<': signed/unsigned mismatch
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\winmain.cpp(418): warning C4018: '<': signed/unsigned mismatch
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\winmain.cpp(428): warning C4018: '<': signed/unsigned mismatch
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\winmain.cpp(488): warning C4018: '<': signed/unsigned mismatch
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\winmain.cpp(491): warning C4018: '<': signed/unsigned mismatch
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\winmain.cpp(526): warning C4018: '<': signed/unsigned mismatch
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\winmain.cpp(540): warning C4018: '<': signed/unsigned mismatch
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\winmain.cpp(542): warning C4305: 'argument': truncation from 'double' to 't'
+          with
+          [
+              t=float
+          ]
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\winmain.cpp(543): warning C4305: 'argument': truncation from 'double' to 't'
+          with
+          [
+              t=float
+          ]
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\winmain.cpp(554): warning C4018: '<': signed/unsigned mismatch
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\winmain.cpp(582): warning C4018: '<': signed/unsigned mismatch
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\winmain.cpp(598): warning C4018: '<': signed/unsigned mismatch
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\winmain.cpp(616): warning C4018: '<': signed/unsigned mismatch
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\winmain.cpp(626): warning C4018: '<': signed/unsigned mismatch
+d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\global.h(165): warning C4018: '<': signed/unsigned mismatch
+  d:\github\directx-basic-3dinteraction-environment\enginedx\enginedx\winmain.cpp(510): note: see reference to function template instantiation 'bool UniqueiItem<short>(t *,size_t,t)' being compiled
+          with
+          [
+              t=short
+          ]
+  WireframeShader.cpp
+  Generating Code...
+  EngineDX.vcxproj -> D:\GitHub\DirectX-Basic-3DInteraction-Environment\EngineDX\Debug\EngineDX.exe
